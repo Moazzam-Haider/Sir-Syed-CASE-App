@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123218399952",
+    "project_id": "sir-syed-case-database",
+    "storage_bucket": "sir-syed-case-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123218399952:android:57a761a19ff66d5da984d5",
+        "android_client_info": {
+          "package_name": "com.example.sir_syed_case"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtFcuun26SgSj6KoT3C-x9Mi4EwVSy82s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
